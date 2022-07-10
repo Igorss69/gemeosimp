@@ -1,0 +1,10 @@
+body{
+    background-color: #00ffff;
+}
+
+div.inserir {
+    background-color: #ffffff;
+    margin: auto;
+    text-align: center;
+    width: 500px;
+}
